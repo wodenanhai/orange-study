@@ -1,6 +1,6 @@
 module.exports = {
     base: '/orange-study/', //基础虚拟路径
-    dest: 'dist',
+    // dest: 'dist',
     /* 打包文件基础路径, 在命令所在目录下 */
     title: '模糊的大橙子', // 标题
     description: '路漫漫其修远兮，吾将上下而求索', // 标题下的描述
